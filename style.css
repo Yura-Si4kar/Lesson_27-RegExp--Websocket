@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+.body {
+    padding: 20px;
+    background-color: lightsalmon;
+    text-align: center;
+}
+
+.message_box {
+    width: 27%;
+    background-color: rgb(245, 196, 176);
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.message_elements {
+    color:red;
+}
+
+.send_btn {
+    border: none;
+    border-radius: 15px;
+    background-color: blue;
+    cursor: pointer;
+    margin-left: 20px;
+    padding: 5px 12px 3px;
+}
